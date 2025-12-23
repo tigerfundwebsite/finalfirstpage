@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "SRE Tiger Fund - Portfolio Management Services",
+  title: "Tiger Assets Pvt Ltd - Portfolio Management Services",
   description:
     "Investing in Emerging Leaders Across India's Growth Sectors. Equity-focused investment firm with deep domain knowledge and proven track record.",
   generator: "v0.app",
