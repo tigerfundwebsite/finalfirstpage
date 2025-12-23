@@ -13,7 +13,7 @@ export default function Home() {
             <TrendingUp className="w-10 h-10 text-white" />
           </div>
           <div className="text-left">
-            <h1 className="text-3xl font-bold text-[#1a1a1a]">SRE Tiger Fund</h1>
+            <h1 className="text-3xl font-bold text-[#1a1a1a]">Tiger Assets Pvt Ltd</h1>
             <p className="text-sm text-gray-600">Portfolio Management Services</p>
           </div>
         </div>
