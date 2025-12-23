@@ -60,7 +60,7 @@ export default function ContactPage() {
             </div>
 
             <div className="pt-6 border-t border-gray-200 text-center">
-              <p className="text-sm text-gray-600 font-medium">SRE TIGER FUND is a SEBI-registered Portfolio Manager</p>
+              <p className="text-sm text-gray-600 font-medium">Tiger Assets Pvt Ltd is a SEBI-registered Portfolio Manager</p>
               <p className="text-sm text-gray-500 mt-1">SEBI Registration Number: INP000005795</p>
             </div>
           </div>
