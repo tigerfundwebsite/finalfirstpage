@@ -36,10 +36,10 @@ export default function ContactPage() {
                 <div>
                   <h3 className="font-semibold text-[#1a1a1a] mb-1">Email</h3>
                   <a
-                    href="mailto:admintiger@sre.co.in"
+                    href="mailto:contact@tigerassets.co.in"
                     className="text-gray-600 hover:text-[#EA7317] transition-colors"
                   >
-                    admintiger@sre.co.in
+                    contact@tigerassets.co.in
                   </a>
                 </div>
               </div>
